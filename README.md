@@ -33,7 +33,7 @@ Instale as dependências
 yarn ou sudo yarn
 ```
 
-Iniciar o aplicativo
+Inicie o aplicativo
 
 ```
 yarn ios
