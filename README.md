@@ -18,7 +18,7 @@ Aplicativo desenvolvido para teste da lib react-native-snap-carousel.
 Clone o repositório
 
 ```
-git clone git@github.com:alessandre74/gofinances.git
+git clone git@github.com:alessandre74/react-native-snap-carousel.git
 ```
 
 Acesse o diretório do projeto
@@ -33,7 +33,7 @@ Instale as dependências
 yarn ou sudo yarn
 ```
 
-Inicie o projeto
+Iniciar o aplicativo
 
 ```
 yarn ios
